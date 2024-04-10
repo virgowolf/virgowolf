@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @virgowolf
-- 👀 I’m interested in data visualization and data storytelling.
-- 🌱 I’m currently learning the basics of coding.
-
+- 👋 Hi, I’m Celina
+- 👀 I’m passionate about data visualization and data storytelling.
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I also write kids' books!
+- ⚡ Fun fact: I also write children's books!
 
 <!---
 virgowolf/virgowolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
